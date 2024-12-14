@@ -1,1 +1,1 @@
-# Diversified-Iter-DPO
+# DIVE: Diversified Iterative self-ImproVEment
